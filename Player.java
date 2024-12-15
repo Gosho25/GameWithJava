@@ -3,7 +3,7 @@ package entity;
 import Main.GamePanel;
 import Main.KeyHandler;
 
-import javax.imageio.ImageIO;
+import javax.imageio.ImageIO; 
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
